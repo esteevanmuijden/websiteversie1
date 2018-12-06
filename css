@@ -1,0 +1,41 @@
+body{ 
+    background-color: #f1f1f1;
+}
+
+h1{
+    font: "roboto bold";
+    
+}
+
+h2 {
+    font: "roboto";
+    color: #db7c3f;
+    font-size: 27px;
+}
+
+
+
+.menuafbeelding {
+
+    width: 100%;  
+}
+
+img{
+    
+    width: 100%;
+    
+}
+
+form {
+    font: "roboto";
+    background: #f1f1f1;
+    border: #db7c3f;
+       
+}
+
+fieldset:valid p {
+    display: block;
+    color: white;
+    background: #f1f1f1;
+    padding: .50em;
+}
